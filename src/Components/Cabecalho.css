@@ -1,0 +1,8 @@
+.container-cabecaclho{
+    background-color: blue;
+    height: 5vh;
+    color: aliceblue;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
